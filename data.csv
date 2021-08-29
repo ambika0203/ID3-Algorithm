@@ -1,0 +1,12 @@
+Department,Age,Salary,Target
+Sales,Middle,High,Senior
+Sales,Young,Low,Junior
+Sales,Middle,Low,Junior
+System,Young,High,Junior
+System,Middle,High,Senior
+System,Young,High,Junior
+System,Senior,High,Senior
+Marketing,Middle,High,Senior
+Marketing,Middle,Average,Junior
+Security,Senior,Average,Senior
+Security,Young,Low,Junior
